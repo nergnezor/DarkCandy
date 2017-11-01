@@ -2,7 +2,7 @@
 	"name": "dark-candy",
 	"displayName": "Dark Candy",
 	"description": "Dark theme with pastel colors",
-	"version": "1.0.1",
+	"version": "1.0.3",
 	"publisher": "erik-rosengren",
 	"engines": {
 		"vscode": "^1.12.0"
